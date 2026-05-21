@@ -3,7 +3,7 @@
 
 # Site Settings
 title: "Love at UCSB: The Quiet Practice of Attention"
-description: "An interactive visual narrative exploring how love appears at UC Santa Barbara: not as romance, but as the quiet, everyday attention that friends, mentors, and classmates give one another. Built from original campus field photography and Unit 2 readings for Linguistics 3C.
+description: "An interactive visual narrative exploring how love appears at UC Santa Barbara: not as romance, but as the quiet, everyday attention that friends, mentors, and classmates give one another. Built from original campus field photography and Unit 2 readings for Linguistics 3C."
 
 "
 url: "https://estebanwu-dotcom.github.io"
@@ -13,7 +13,7 @@ email: "estebanwu@umail.ucsb.edu"
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
 logo: ""
 telar_language: en
-collection_mode: false
+collection_mode: true
 
 # Story Interface Settings
 story_interface:
