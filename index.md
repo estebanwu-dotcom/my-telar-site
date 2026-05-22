@@ -16,4 +16,4 @@ title: Home
   tu contenido de bienvenida aquí en markdown.
 -->
 
-{{ lang.index_page.welcome | markdownify }}
+This site gathers original campus photography from UC Santa Barbara alongside short narrative reflections written for Linguistics 3C. It asks a quiet question: where does love live on a college campus when we set aside romance and look instead for the small, everyday attentions that hold a community together? Move through the stories in order, or wander between them. The objects, glossary, and works cited pages collect the images and sources that anchor each scene.
