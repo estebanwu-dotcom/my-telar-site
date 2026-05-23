@@ -15,5 +15,4 @@ title: Home
   Para reemplazarlo con el tuyo, borra la línea que sigue y escribe
   tu contenido de bienvenida aquí en markdown.
 -->
-
-This site gathers original campus photography from UC Santa Barbara alongside short narrative reflections written for Linguistics 3C. It asks a quiet question: where does love live on a college campus when we set aside romance and look instead for the small, everyday attentions that hold a community together? Move through the stories in order, or wander between them. The objects, glossary, and works cited pages collect the images and sources that anchor each scene.
+This site gathers original campus photography from UC Santa Barbara alongside short narrative reflections written for Linguistics 3C. Enjoy this journey — whether you will, see how love appears in a college setting beside the romance and see the small everyday attention that we do not usually see. Start by clicking on the following stories:
