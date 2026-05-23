@@ -15,4 +15,4 @@ title: Home
   Para reemplazarlo con el tuyo, borra la línea que sigue y escribe
   tu contenido de bienvenida aquí en markdown.
 -->
-This site gathers original campus photography from UC Santa Barbara alongside short narrative reflections written for Linguistics 3C. Enjoy this journey — whether you will, see how love appears in a college setting beside the romance and see the small everyday attention that we do not usually see. Start by clicking on the following stories:
+This website combines short narrative reflections made for Linguistics 3C along with special campus photos from UC Santa Barbara. Enjoy this journey and observe how love presents itself with passion in a collegiate context, as well as the quiet daily attention that is often ignored. Click on the following stories to get started:
